@@ -1,4 +1,5 @@
 # java-zh-2
+Java alkalmazások tárgyra készülő gyakorló feladatok megoldása.
 
 Feladat leírása:
 
